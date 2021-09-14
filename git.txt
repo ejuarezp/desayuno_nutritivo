@@ -24,4 +24,5 @@ git checkout [nombre_rama]: Sirve para cambiarnos a la rama [nombre_rama]
 
 git checkout -b [nombre_rama]: Sirve para crear una nueva rama [nombre_rama] y cambiarnos a ella
 
+git pull: Sirve para "jalar" u obtener los commits de github para actualizar o sincronizar nuestro repositorio local
 
