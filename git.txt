@@ -5,3 +5,5 @@ git status: Sirve para obtener el estado del repositorio con respecto al reposit
 git add [nombre_del_archivo]: Sirve para decirle a git que comience a rastrear el archivo [nombre_del_archivo]
 
 git add -A: Sirve para decirle a git que comience a rastrear todos los nuevos archivos
+
+git commit -m "mensaje descriptivo de los cambios": Sirve para guardar de manera local en una transacción los cambios agregados con git add
