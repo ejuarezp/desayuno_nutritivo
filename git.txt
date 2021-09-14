@@ -15,3 +15,13 @@ Cada vez que hago cambios en mi código, al terminar debemos ejecutar:
 git add -A 
 git commit -m "mensaje descriptivo de los cambios"
 git push
+
+
+------------------------------RAMAS-------------------------------------
+git branch: Sirve para listar las ramas del repositorio local
+
+git checkout [nombre_rama]: Sirve para cambiarnos a la rama [nombre_rama]
+
+git checkout -b [nombre_rama]: Sirve para crear una nueva rama [nombre_rama] y cambiarnos a ella
+
+
