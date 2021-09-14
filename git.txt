@@ -7,3 +7,5 @@ git add [nombre_del_archivo]: Sirve para decirle a git que comience a rastrear e
 git add -A: Sirve para decirle a git que comience a rastrear todos los nuevos archivos
 
 git commit -m "mensaje descriptivo de los cambios": Sirve para guardar de manera local en una transacción los cambios agregados con git add
+
+git push: Sirve para que las transacciones locales se "empujen" o manden al repositorio remoto
