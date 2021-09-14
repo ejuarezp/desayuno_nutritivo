@@ -1,0 +1,7 @@
+git clone ruta_del_repositorio: Sirve para clonar un repositorio. Después de clonarlo, tengo que moverme a la carpeta con el nombre del repositorio utilizando el comando "cd nombre_del_repositorio"
+
+git status: Sirve para obtener el estado del repositorio con respecto al repositorio de origen
+
+git add [nombre_del_archivo]: Sirve para decirle a git que comience a rastrear el archivo [nombre_del_archivo]
+
+git add -A: Sirve para decirle a git que comience a rastrear todos los nuevos archivos
