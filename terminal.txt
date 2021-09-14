@@ -1,0 +1,16 @@
+ls: list - Listar el contenido del directorio de trabajo
+
+pwd: print working directory - Imprimir en la pantalla la ruta del directorio en el que estamos trabajando 
+
+man [nombre_programa]: manual del programa [nombre_programa]
+
+cd [nombre_directorio]: cambiar de directorio
+cd ..: cambia al directorio padre
+cd /: cambia al directorio raíz
+
+mkdir [nombre]: crear el directorio [nombre]
+
+rm [nombre]: remueve el archivo [nombre]
+rm -R [nombre]: remueve de manera recursiva todos los archivos dentro de [nombre]
+
+cat [nombre]: concatenar e imprimir en consola el archivo [nombre]
